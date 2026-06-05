@@ -1,0 +1,2 @@
+# OtakuVerse
+Fullstack project 
